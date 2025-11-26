@@ -29,4 +29,6 @@
     "markdown.editor.filePaste.videoSnippet": "<video src=\"${src}\" title=\"${title}\" autoplay loop controls muted></video>",
 
     "github.copilot.chat.codeGeneration.useInstructionFiles": false,
+    "editor.unicodeHighlight.nonBasicASCII": true,
+    "terminal.integrated.enableImages": true,
 }
